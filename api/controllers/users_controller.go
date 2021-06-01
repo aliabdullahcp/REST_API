@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/aliabdullahcp/fullstack/api/auth"
-	"github.com/aliabdullahcp/fullstack/api/models"
-	"github.com/aliabdullahcp/fullstack/api/responses"
-	"github.com/aliabdullahcp/fullstack/api/utils/formaterror"
+	"github.com/aliabdullahcp/REST_API/api/auth"
+	"github.com/aliabdullahcp/REST_API/api/models"
+	"github.com/aliabdullahcp/REST_API/api/responses"
+	"github.com/aliabdullahcp/REST_API/api/utils/formaterror"
 	"github.com/gorilla/mux"
 )
 

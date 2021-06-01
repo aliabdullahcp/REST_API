@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/aliabdullahcp/fullstack/api/controllers"
-	"github.com/aliabdullahcp/fullstack/api/seed"
+	"github.com/aliabdullahcp/REST_API/api/controllers"
+	"github.com/aliabdullahcp/REST_API/api/seed"
 	"github.com/joho/godotenv"
 )
 
